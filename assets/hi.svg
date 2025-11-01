@@ -1,21 +1,109 @@
-<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Hiệu ứng gradient đổi màu -->
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#ff0055">
-        <animate attributeName="stop-color" values="#ff0055;#00ffcc;#ff0055" dur="3s" repeatCount="indefinite" />
+    <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#00FFFF;#FFFF00;#FF00FF" dur="4s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#00ffcc">
-        <animate attributeName="stop-color" values="#00ffcc;#ff0055;#00ffcc" dur="3s" repeatCount="indefinite" />
+      <stop offset="100%" stop-color="#00FFFF">
+        <animate attributeName="stop-color" values="#00FFFF;#FFFF00;#FF00FF;#00FFFF" dur="4s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
+
+    <symbol id="pixel">
+      <rect width="15" height="15" rx="0" ry="0" fill="url(#rgb)">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </symbol>
   </defs>
 
-  <!-- Viền LED -->
-  <rect x="5" y="5" width="590" height="140" rx="15" ry="15" fill="none" stroke="url(#grad)" stroke-width="5" />
+  <rect x="10" y="10" width="980" height="160" rx="20" ry="20" fill="none"
+        stroke="url(#rgb)" stroke-width="6" stroke-dasharray="25 15">
+    <animate attributeName="stroke-dashoffset" values="0;40" dur="0.4s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- Chữ chính -->
-  <text x="50%" y="55%" font-size="45" text-anchor="middle" fill="url(#grad)" font-family="Poppins, sans-serif">
-    Hi, I'm Nhat Huy
-  </text>
+  <g transform="translate(160,40)">
+
+    <g>
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="0" y="54"/><use href="#pixel" x="0" y="72"/>
+      <use href="#pixel" x="18" y="36"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+      <use href="#pixel" x="36" y="54"/><use href="#pixel" x="36" y="72"/>
+    </g>
+
+    <g transform="translate(65,0)">
+      <use href="#pixel" x="0" y="0"/>
+      <use href="#pixel" x="0" y="54"/><use href="#pixel" x="0" y="72"/>
+    </g>
+
+    <g transform="translate(83,65)">
+      <use href="#pixel" x="0" y="10"/>
+    </g>
+
+    <g transform="translate(130,0)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="0" y="54"/><use href="#pixel" x="0" y="72"/>
+    </g>
+
+    <g transform="translate(153,0)">
+      <use href="#pixel" x="0" y="0"/>
+    </g>
+
+    <g transform="translate(185,36)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="18" y="18"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+    </g>
+
+    <g transform="translate(250,0)"></g>
+
+    <g transform="translate(270,0)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="0" y="54"/><use href="#pixel" x="0" y="72"/>
+      <use href="#pixel" x="18" y="18"/><use href="#pixel" x="18" y="36"/><use href="#pixel" x="18" y="54"/> 
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+      <use href="#pixel" x="36" y="54"/><use href="#pixel" x="36" y="72"/>
+    </g>
+
+    <g transform="translate(335,36)">
+      <use href="#pixel" x="0" y="-36"/><use href="#pixel" x="0" y="-18"/><use href="#pixel" x="0" y="0"/>
+      <use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="18" y="0"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+    </g>
+
+    <g transform="translate(400,36)">
+      <use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="18" y="0"/><use href="#pixel" x="18" y="36"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+    </g>
+
+    <g transform="translate(465,0)">
+      <use href="#pixel" x="18" y="0"/>
+      <use href="#pixel" x="0" y="18"/><use href="#pixel" x="18" y="18"/><use href="#pixel" x="36" y="18"/>
+      <use href="#pixel" x="18" y="36"/><use href="#pixel" x="18" y="54"/><use href="#pixel" x="18" y="72"/>
+    </g>
+
+    <g transform="translate(530,0)"></g>
+
+    <g transform="translate(550,0)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="0" y="54"/><use href="#pixel" x="0" y="72"/>
+      <use href="#pixel" x="18" y="36"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+      <use href="#pixel" x="36" y="54"/><use href="#pixel" x="36" y="72"/>
+    </g>
+
+    <g transform="translate(615,36)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/><use href="#pixel" x="0" y="36"/>
+      <use href="#pixel" x="18" y="36"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/><use href="#pixel" x="36" y="36"/>
+    </g>
+
+    <g transform="translate(680,36)">
+      <use href="#pixel" x="0" y="0"/><use href="#pixel" x="0" y="18"/>
+      <use href="#pixel" x="18" y="18"/><use href="#pixel" x="18" y="36"/><use href="#pixel" x="18" y="54"/>
+      <use href="#pixel" x="36" y="0"/><use href="#pixel" x="36" y="18"/>
+    </g>
+  </g>
 </svg>
