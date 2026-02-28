@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hi.svg" alt="Nhat Huy — AI Engineer" width="800" />
+  <img src="assets\hi.svg" alt="Nhat Huy — AI Engineer" width="800" />
 </p>
 
 <h3 align="center">I design and build scalable AI systems, from model experimentation to deployment-ready services.</h3>
@@ -23,10 +23,15 @@
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white)
+
 ### Deployment & Tools
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -43,8 +48,6 @@
 > **Mục tiêu:** Trở thành AI Engineer chuyên nghiệp — xây dựng hệ thống AI thông minh có khả năng học hỏi, thích ứng và tạo ra tác động thực sự đến thế giới.
 >
 > Tôi tập trung vào toàn bộ vòng đời AI: từ phân tích dữ liệu, huấn luyện mô hình, đến triển khai production-ready services.
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-58a6ff?style=flat-square&logo=handshake&logoColor=white" alt="Open to Collaboration" />
