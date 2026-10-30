@@ -25,77 +25,6 @@ My interests include **Machine Learning, Computer Vision, LLMs, RAG, and Agentic
 - ⚙️ Working with **Python, FastAPI, PyTorch, and Docker**
 - 🎯 Interested in **Applied AI, automation, and intelligent systems**
 
----
-
-## 🚀 Featured Projects
-
-### 01. ETD Prediction Engine
-
-A machine learning system for delivery-time estimation and production planning.
-
-- Combines KNN-based predictions with domain-specific business rules.
-- Integrates predictive analytics into ERP workflows.
-- Supports automated delivery-time estimation.
-
-**Tech:** `Python` `Scikit-learn` `KNN` `REST API`
-
-### 02. Cotton Color Prediction & Blending
-
-An AI-based color matching and blending system for textile manufacturing.
-
-- Processes spectrophotometer data in CIELAB color space.
-- Applies Kubelka–Munk theory and CIEDE2000.
-- Predicts cotton color combinations and blending ratios.
-
-**Tech:** `Python` `Machine Learning` `FastAPI` `React`
-
-### 03. Real-Time Object Detection & Tracking
-
-A computer vision pipeline for real-time detection and multi-object tracking.
-
-- Uses YOLOv11 for object detection.
-- Integrates DeepSORT and ByteTrack.
-- Deploys inference services through containerized APIs.
-
-**Tech:** `PyTorch` `YOLOv11` `OpenCV` `FastAPI` `Docker`
-
-### 04. Enterprise Knowledge RAG
-
-A retrieval-augmented generation system for document search and question answering.
-
-- Builds semantic retrieval workflows over domain-specific knowledge.
-- Integrates LLMs with document processing.
-- Provides natural-language access to structured and unstructured information.
-
-**Tech:** `Python` `LLMs` `RAG` `Embeddings`
-
----
-
-## 🧪 Personal Projects
-
-### 🎮 Interactive Livestream AI Game
-**In Development**
-
-A multi-agent gaming experiment featuring autonomous AI players and LLM-driven commentators.
-
-- Agent-based gameplay decision-making
-- Game-state awareness and event-driven interactions
-- LLM-generated commentary
-- Spec-Driven Development
-
-**Tech:** `LLMs` `Multi-Agent Systems` `Game AI`
-
-### 📄 Automated Loan Application System
-
-An OCR-based application for extracting information from financial documents.
-
-- ID card and income document extraction
-- Automated application form processing
-- Web interface for document submission
-
-**Tech:** `PaddleOCR` `VietOCR` `Gradio` `MongoDB`
-
----
 
 ## 🛠️ Tech Stack
 
@@ -165,7 +94,7 @@ An OCR-based application for extracting information from financial documents.
 
 ---
 
-## 🌐 Find Me
+## 🌐 Contact with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huy-nguyen-79b606317/">
