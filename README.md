@@ -54,3 +54,22 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-58a6ff?style=flat-square&logo=handshake&logoColor=white" alt="Open to Collaboration" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-79c0ff?style=flat-square&logo=brain&logoColor=white" alt="Focus: AI Engineering" />
 </p>
+---
+
+## 🔎 Find Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_KAGGLE_URL">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Feel free to connect with me!</i>
+</p>
