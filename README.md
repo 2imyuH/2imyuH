@@ -56,20 +56,28 @@
 </p>
 ---
 
-## 🔎 Find Me
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <strong>Let's connect, collaborate, and build something amazing!</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/huy-nguy%E1%BB%85n-79b606317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_KAGGLE_URL">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  &nbsp;
+  <a href="mailto:huynguyen.workmails@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="https://www.kaggle.com/huynguyen221" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
 <p align="center">
-  <i>Feel free to connect with me!</i>
+  <sub>💡 Open to AI engineering opportunities, innovative projects, and meaningful collaborations.</sub>
 </p>
+
