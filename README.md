@@ -1,89 +1,182 @@
 
 <div align="center">
+
   <img src="assets/hi.svg" alt="Nguyen Nhat Huy" width="800" />
 
-  ### AI Engineer | LLM & AI Agents | Computer Vision
+  <h3>AI Engineer | LLM & AI Agents | Computer Vision</h3>
 
-  Building and deploying AI solutions for enterprise systems.
+  <p>
+    Building intelligent systems, exploring new ideas,
+    and turning AI research into practical applications.
+  </p>
+
 </div>
 
-## About Me
+---
 
-I'm Nguyen Nhat Huy, an AI Engineer with experience in machine learning, computer vision, LLM applications, and enterprise system integration. My work covers data preparation, model development, backend services, and production deployment.
+## 👨‍💻 About Me
 
-- AI/ML: Computer Vision, forecasting, LLMs, RAG, and AI agents
-- Engineering: Python, FastAPI, Flask, Node.js, React, and Docker
-- Enterprise systems: Sage X3, Odoo, workflow automation, and data pipelines
+I'm **Nguyen Nhat Huy**, an AI Engineer focused on building practical AI applications and scalable systems.
 
-## Experience
+My interests include **Machine Learning, Computer Vision, LLMs, RAG, and Agentic AI**, with an emphasis on backend integration and real-world deployment.
 
-**AI Engineer — R&D, BROTEX Co., Ltd.**  
-May 2025 – Present
+- 🔭 Currently exploring **multi-agent systems and AI-driven applications**
+- 🌱 Learning more about **LLM orchestration, system design, and MLOps**
+- ⚙️ Working with **Python, FastAPI, PyTorch, and Docker**
+- 🎯 Interested in **Applied AI, automation, and intelligent systems**
 
-- Developed an ETD prediction engine integrated with Sage X3 ERP, processing 15,000+ orders per month with 88% reported prediction accuracy.
-- Built a cotton color prediction and blending system using CIELAB measurements, Kubelka–Munk modeling, CCM, and CIEDE2000, reaching 82% reported accuracy.
-- Automated textile process calculations, reducing processing time from 20–30 minutes to approximately 5 seconds per order.
-- Developed an internal knowledge-base chatbot using retrieval-augmented generation.
+---
 
-**AI Engineer Intern — GAION Co., Ltd.**  
-Sep 2024 – Feb 2025
+## 🚀 Featured Projects
 
-- Built Apache NiFi data pipelines and Splunk monitoring workflows, reducing incident investigation time by 50%.
-- Integrated ChatGPT capabilities with Odoo ERP workflows.
-- Developed YOLOv11 detection and DeepSORT/ByteTrack tracking services, achieving over 90% mAP on curated datasets.
+### 01. ETD Prediction Engine
 
-## Selected Work
+A machine learning system for delivery-time estimation and production planning.
 
-| Project | Description | Technologies |
-| --- | --- | --- |
-| ETD Prediction Engine | Delivery-time prediction for ERP order planning; KNN and business rules | Python, Scikit-learn, Sage X3, OpenClaw, Qwen |
-| Cotton Color Prediction | Cotton color matching and blending-ratio prediction | Python, FastAPI, React, CIELAB, CIEDE2000 |
-| Textile Process Automation | Replaced manual spreadsheet calculations with a web application | Python, FastAPI, Node.js, React, SQLite |
-| Enterprise Knowledge Chatbot | Internal document retrieval and natural-language search | LLMs, RAG, Python |
-| Object Detection & Tracking | Real-time detection and multi-object tracking | YOLOv11, PyTorch Lightning, DeepSORT, ByteTrack, Docker |
+- Combines KNN-based predictions with domain-specific business rules.
+- Integrates predictive analytics into ERP workflows.
+- Supports automated delivery-time estimation.
 
-## Personal Projects
+**Tech:** `Python` `Scikit-learn` `KNN` `REST API`
 
-**Interactive Livestream AI Game** — In development (Oct 2026 – Present)  
-Exploring multi-agent gameplay, LLM-driven commentary, game-state awareness, and event-based interactions.
+### 02. Cotton Color Prediction & Blending
 
-**Automated Loan Application System** (Oct 2024 – Jan 2025)  
-Built an OCR-based document extraction workflow for loan applications using PaddleOCR, VietOCR, Gradio, and MongoDB.
+An AI-based color matching and blending system for textile manufacturing.
 
-## Tech Stack
+- Processes spectrophotometer data in CIELAB color space.
+- Applies Kubelka–Munk theory and CIEDE2000.
+- Predicts cotton color combinations and blending ratios.
 
-**Languages & AI/ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Tech:** `Python` `Machine Learning` `FastAPI` `React`
 
-**LLM & Agents**  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square) ![OpenClaw](https://img.shields.io/badge/OpenClaw-555555?style=flat-square)
+### 03. Real-Time Object Detection & Tracking
 
-**Data & Databases**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+A computer vision pipeline for real-time detection and multi-object tracking.
 
-**Backend, Frontend & Tools**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+- Uses YOLOv11 for object detection.
+- Integrates DeepSORT and ByteTrack.
+- Deploys inference services through containerized APIs.
 
-## GitHub Activity
+**Tech:** `PyTorch` `YOLOv11` `OpenCV` `FastAPI` `Docker`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imyuH&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+### 04. Enterprise Knowledge RAG
+
+A retrieval-augmented generation system for document search and question answering.
+
+- Builds semantic retrieval workflows over domain-specific knowledge.
+- Integrates LLMs with document processing.
+- Provides natural-language access to structured and unstructured information.
+
+**Tech:** `Python` `LLMs` `RAG` `Embeddings`
+
+---
+
+## 🧪 Personal Projects
+
+### 🎮 Interactive Livestream AI Game
+**In Development**
+
+A multi-agent gaming experiment featuring autonomous AI players and LLM-driven commentators.
+
+- Agent-based gameplay decision-making
+- Game-state awareness and event-driven interactions
+- LLM-generated commentary
+- Spec-Driven Development
+
+**Tech:** `LLMs` `Multi-Agent Systems` `Game AI`
+
+### 📄 Automated Loan Application System
+
+An OCR-based application for extracting information from financial documents.
+
+- ID card and income document extraction
+- Automated application form processing
+- Web interface for document submission
+
+**Tech:** `PaddleOCR` `VietOCR` `Gradio` `MongoDB`
+
+---
+
+## 🛠️ Tech Stack
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI and Machine Learning" />
 </p>
 
-## Certifications
+### LLMs & Agentic AI
 
-- Splunk Core Certified User — Pearson VUE (2025)
-- Big Data Hadoop and Spark Developer Certificate — Simplilearn (2023)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-555555?style=flat-square)
 
-## Education
+### Data & Databases
 
-**Industrial University of Ho Chi Minh City**  
-Bachelor of Engineering in Computer Science (2020–2025)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" />
+</p>
 
-## Find Me
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark" alt="Backend" />
+</p>
+
+### Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=dark" alt="Developer Tools" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Frontend" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=2imyuH&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imyuH&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+
+</div>
+
+---
+
+## 🌐 Find Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/huy-nguyen-79b606317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:huynguyen.workmails@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.kaggle.com/huynguyen221"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://www.linkedin.com/in/huy-nguyen-79b606317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:huynguyen.workmails@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/huynguyen221">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
