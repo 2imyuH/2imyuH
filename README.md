@@ -79,18 +79,19 @@ My interests include **Machine Learning, Computer Vision, LLMs, RAG, and Agentic
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=2imyuH&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=2imyuH&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="165"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2imyuH&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=2imyuH&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="165"
   />
 
 </div>
+
 
 ---
 
